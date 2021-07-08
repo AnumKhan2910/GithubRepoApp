@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BarChart">
+        <attr name="bar_color" format="color"/>
+        <attr name="bar_width" format="dimension"/>
+        <attr name="bar_text_size" format="dimension"/>
+        <attr name="bar_text_color" format="color"/>
+        <attr name="bar_max_value" format="integer"/>
+    </declare-styleable>
+</resources>
